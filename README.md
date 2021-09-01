@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript,Java,HTML,PHP,Phyton,C,C#,C++
 - 🌱 I’m currently learning Prolog,Haskell,LISP,Malbolge
 - 💞️ I’m looking to collaborate on -
-- 📫 How to reach me MindOfSteph#0769
+- 📫 How to reach me ErrorZeroDivision@gmail.com
 
 <!---
 SystemExit/SystemExit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
